@@ -181,7 +181,10 @@ INSERT INTO `gafanhotos` (`id`, `nome`, `profissao`, `nascimento`, `sexo`, `peso
 
 --
 -- Estrutura para tabela `gafanhoto_assiste_curso`
---
+--![diagram](https://github.com/felipe6819/sql-codes/assets/128556670/9a21b365-37b8-4f66-92f9-f9154c95f776)
+
+
+
 
 CREATE TABLE `gafanhoto_assiste_curso` (
   `id` int(11) NOT NULL,
